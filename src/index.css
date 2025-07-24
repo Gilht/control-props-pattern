@@ -50,3 +50,9 @@ nav li a {
   color: grey;
   transition: all .3s ease-out;
 }
+
+.shopping-cart {
+  position: fixed;
+  right: 10px;
+  top: 0px;
+}
